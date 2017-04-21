@@ -6,6 +6,10 @@ Guetzli is a Google program to optimize JPEG images. Unfortunately, it only work
 ![2](https://github.com/tanrax/guetzli-recursively-gui/blob/master/screenshots/2.jpg)
 
 ## Install 
+```
+brew cask install guetzli-r
+```
+or
 
 [Download latest Version](https://github.com/tanrax/guetzli-recursively-gui/raw/master/dist/guetzli-r.zip)
 
